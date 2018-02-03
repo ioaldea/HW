@@ -1,8 +1,8 @@
 
 var objSet = {
 	strSheetName: 'Sheet1',
-	'strAPYkey': '',
-	'searchEngineID': '',
+	'strAPYkey': 'rrrr',
+	'searchEngineID': 'rrrrr',
 }
 
 function onOpen() {
